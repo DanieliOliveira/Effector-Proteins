@@ -1,0 +1,546 @@
+Número de Termos em cada abstract:
+
+id: 38066347 
+title: Exploring the surface epitope and nuclear localization analysis of porcine circovirus type 3 capsid protein. 
+nuclear localization signal : 1 
+
+id: 38064485 
+title: Eukaryotic CD-NTase, STING, and viperin proteins evolved via domain shuffling, horizontal transfer, and ancient inheritance from prokaryotes. 
+bacteria : 9 
+eukaryotic : 2 
+eukaryotes : 4 
+homology : 1 
+
+id: 38064380 
+title: Systemic Administration with Bacteria-Inspired Nanosystems for Targeted Oncolytic Therapy and Antitumor Immunomodulation. 
+bacteria : 3 
+peptide : 3 
+
+id: 38063852 
+title: Mapping the substrate-binding subsite specificity of a Porphyromonas gingivalis Tpr peptidase. 
+bacteria : 2 
+eukaryotes : 1 
+prokaryotes : 1 
+peptide : 1 
+
+id: 38063488 
+title: TLR9 plus STING Agonist Adjuvant Combination Induces Potent Neopeptide T Cell Immunity and Improves Immune Checkpoint Blockade Efficacy in a Tumor Model. 
+peptide : 8 
+
+id: 38062792 
+title: Antimicrobial Peptide-Peptoid Hybrids with and without Membrane Disruption. 
+bacteria : 2 
+peptide : 3 
+
+id: 38061560 
+title: Toxicity of tigecycline on the freshwater microalga Scenedesmus obliquus: Photosynthetic and transcriptional responses. 
+bacteria : 1 
+peptide : 1 
+
+id: 38061355 
+title: Machine learning analysis of the T cell receptor repertoire identifies sequence features of self-reactivity. 
+peptide : 1 
+
+id: 38061001 
+title: Parasitoid Serpins Evolve Novel Functions to Manipulate Host Homeostasis. 
+bacteria : 1 
+effector : 1 
+
+id: 38060615 
+title: Deep analysis of CD4 T cells in the rhesus CNS during SIV infection. 
+effector : 1 
+
+id: 38060257 
+title: TADA: Taxonomy-Aware Dataset Aggregator. 
+bacteria : 1 
+prokaryotic : 1 
+
+id: 38060007 
+title: Origins and Functional Significance of Eukaryotic Protein Folds. 
+bacteria : 5 
+eukaryotic : 4 
+eukaryotes : 5 
+
+id: 38059639 
+title: Additional PfCRT mutations driven by selective pressure for improved fitness can result in the loss of piperaquine resistance and altered Plasmodium falciparum physiology. 
+peptide : 1 
+
+id: 38059521 
+title: Promiscuity of Omphalotin A Biosynthetic Enzymes Allows de novo Production of Non-natural Multiply Backbone N-Methylated Peptide Macrocycles in Yeast. 
+peptide : 11 
+
+id: 38059517 
+title: An Ancestral MHC Organization in Cartilaginous Fish: Reconstructing MHC origin and evolution. 
+peptide : 1 
+
+id: 38057843 
+title: The nexus of natural killer cells and melanoma tumor microenvironment: crosstalk, chemotherapeutic potential, and innovative NK cell-based therapeutic strategies. 
+effector : 1 
+
+id: 38057654 
+title: Antifungal properties of cathelicidin LL-37: current knowledge and future research directions. 
+peptide : 2 
+
+id: 38057638 
+title: From microbes to molecules: a review of microbial-driven antioxidant peptide generation. 
+bacteria : 1 
+peptide : 9 
+
+id: 38057297 
+title: Gut liver brain axis in diseases: the implications for therapeutic interventions. 
+peptide : 1 
+
+id: 38057137 
+title: Structural Insights into Antibacterial Payload Release from Gold Nanoparticles Bound to E. coli Peptide Deformylase. 
+bacteria : 1 
+peptide : 1 
+
+id: 38056946 
+title: Regulation of Hydrophobic Structures of Antibacterial Guanidinium-Based Amphiphilic Polymers for Subcutaneous Implant Applications. 
+bacteria : 8 
+hydrophobic : 3 
+peptide : 3 
+
+id: 38056550 
+title: Short peptides derived from pigment epithelium-derived factor attenuate retinal ischemia reperfusion injury through inhibition of apoptosis and inflammatory response in rats. 
+peptide : 1 
+
+id: 38056301 
+title: Novel antimicrobial peptides modified with fluorinated sulfono-γ-AA having high stability and targeting multidrug-resistant bacteria infections. 
+bacteria : 4 
+peptide : 3 
+
+id: 38056223 
+title: Transcriptomic analysis of skin immunity genes in the Chinese spiny frog (Quasipaa spinosa) after Proteus mirabilis infection. 
+bacteria : 1 
+peptide : 1 
+
+id: 38056114 
+title: Serological assays for differentiating natural COVID-19 infection from vaccine induced immunity. 
+c-terminal : 1 
+
+id: 38055827 
+title: Mitochondrial metabolic flexibility is critical for CD8+ T cell antitumor immunity. 
+effector : 1 
+
+id: 38055438 
+title: Phylogenetic analyses of Chilomastix and Retortamonas species using in vitro excysted flagellates. 
+homology : 1 
+
+id: 38055165 
+title: Antimicrobial use and resistance in food animal production: food safety and associated concerns in Sub-Saharan Africa. 
+peptide : 1 
+
+id: 38055114 
+title: Immunoinformatics-aided rational design of multiepitope-based peptide vaccine (MEBV) targeting human parainfluenza virus 3 (HPIV-3) stable proteins. 
+bacteria : 1 
+homology : 1 
+peptide : 2 
+
+id: 38054968 
+title: Distribution and diversity of type VI secretion system clusters in Enterobacter bugandensis and Enterobacter cloacae. 
+bacteria : 2 
+eukaryotic : 1 
+effector : 4 
+
+id: 38054739 
+title: TrhA, a bacterial progestin and adiponectin receptor homolog, couples membrane energetics homeostasis and unsaturated fatty acid metabolism. 
+bacteria : 1 
+eukaryotes : 1 
+
+id: 38054548 
+title: Metabolic alterations unravel the maternofetal immune responses with disease severity in pregnant women infected with SARS-CoV-2. 
+
+id: 38054022 
+title: Virulence of entomopathogenic bacteria Serratia marcescens against the red palm weevil, Rhynchophorus ferrugineus (Olivier). 
+homology : 1 
+
+id: 38054000 
+title: Profiling of serum factors associated with Staphylococcus aureus skin and soft tissue infections as a foundation for biomarker identification. 
+
+id: 38053998 
+title: Human adipose tissue as a major reservoir of cytomegalovirus-reactive T cells. 
+effector : 1 
+
+id: 38053530 
+title: DegS protease regulates antioxidant capacity and adaptability to oxidative stress environment in Vibrio cholerae. 
+bacteria : 1 
+
+id: 38053528 
+title: Isolation, identification, and significance of salivary Veillonella spp., Prevotella spp., and Prevotella salivae in patients with inflammatory bowel disease. 
+bacteria : 2 
+
+id: 38053504 
+title: Functional Roles of N-Terminal Domains in Pullulanase from Human Gut Lactobacillus acidophilus. 
+
+id: 38053353 
+title: Structural Shifts of the Parvovirus B19 Capsid Receptor-binding Domain: A Peptide Study. 
+peptide : 5 
+
+id: 38053038 
+title: High genomic plasticity and unique features of Xanthomonas translucens pv. graminis revealed through comparative analysis of complete genome sequences. 
+bacteria : 1 
+effector : 2 
+
+id: 38052872 
+title: Shuttle peptide delivers base editor RNPs to rhesus monkey airway epithelial cells in vivo. 
+peptide : 3 
+
+id: 38052835 
+title: Comparative genomics and proteomics analysis of phages infecting multi-drug resistant Escherichia coli O177 isolated from cattle faeces. 
+homology : 1 
+
+id: 38052825 
+title: Functional divergence of a bacterial enzyme promotes healthy or acneic skin. 
+peptide : 1 
+
+id: 38052429 
+title: Small proteins in gram-positive bacteria. 
+bacteria : 2 
+peptide : 1 
+
+id: 38052427 
+title: Carrier proteins boost expression of PR-39-derived peptide in Pichia pastoris. 
+bacteria : 4 
+peptide : 3 
+
+id: 38051771 
+title: The TLR2/TLR6 ligand FSL-1 mitigates radiation-induced hematopoietic injury in mice and nonhuman primates. 
+peptide : 1 
+effector : 1 
+
+id: 38051770 
+title: Structures of the P. aeruginosa FleQ-FleN master regulators reveal large-scale conformational switching in motility and biofilm control. 
+bacteria : 2 
+effector : 1 
+
+id: 38050616 
+title: Eosinophilic pericardial effusion and pericarditis in a cat. 
+bacteria : 1 
+homology : 1 
+
+id: 38050286 
+title: Global knowledge mapping and emerging trends in Helicobacter pylori-related precancerous lesions of gastric cancer research: A bibliometric analysis from 2013 to 2023. 
+
+id: 38049581 
+title: The transcription factor Aiolos restrains the activation of intestinal intraepithelial lymphocytes. 
+effector : 3 
+
+id: 38049513 
+title: α-1,3-Glucanase from the gram-negative bacterium Flavobacterium sp. EK-14 hydrolyzes fungal cell wall α-1,3-glucan. 
+hydrolyzed : 2 
+peptide : 2 
+
+id: 38049469 
+title: An injectable subcutaneous colon-specific immune niche for the treatment of ulcerative colitis. 
+peptide : 1 
+
+id: 38049374 
+title: Effects of the combination of Lactobacillus helveticus and isomalto-oligosaccharide on survival, gut microbiota, and immune function in Apis cerana worker bees. 
+bacteria : 2 
+peptide : 2 
+
+id: 38049261 
+title: Combined treatment of pulsed light and nisin-organic acid based antimicrobial wash for inactivation of Escherichia coli O157:H7 in Romaine lettuce, reduction of microbial loads, and retention of quality. 
+bacteria : 1 
+
+id: 38048459 
+title: Human anti-C1q autoantibodies bind specifically to solid-phase C1q and enhance phagocytosis but not complement activation. 
+effector : 1 
+
+id: 38048343 
+title: FMRP deficiency leads to multifactorial dysregulation of splicing and mislocalization of MBNL1 to the cytoplasm. 
+nuclear localization signal : 1 
+
+id: 38047677 
+title: Regulation of chlamydial spreading from the small intestine to the large intestine by IL-22-producing CD4+ T cells. 
+bacteria : 1 
+peptide : 1 
+
+id: 38047488 
+title: MiR-499 enhances Porphyromonas gingivalis LPS-induced inflammatory response in macrophages by targeting NRIP1 via JAK/STAT pathway. 
+
+id: 38047275 
+title: Study of the binding of ΔFN3.1 fragments of the Bifidobacterium longum GT15 with TNFα and prevalence of domain-containing proteins in groups of bacteria of the human gut microbiota. 
+bacteria : 2 
+c-terminal : 1 
+homology : 1 
+
+id: 38047041 
+title: Lysinoalanine cross-linking is a conserved post-translational modification in the spirochete flagellar hook. 
+bacteria : 1 
+peptide : 1 
+
+id: 38046653 
+title: Toward a Better Understanding of G4 Evolution in the 3 Living Kingdoms. 
+bacteria : 1 
+eukaryotes : 1 
+homology : 2 
+
+id: 38046530 
+title: Early treatment with Fibrinogen γ-chain peptide-coated, ADP-encapsulated Liposomes (H12-(ADP)-liposomes) ameliorates post-partum hemorrhage with coagulopathy caused by amniotic fluid embolism in rabbits. 
+peptide : 1 
+
+id: 38045674 
+title: Hypothalamic-Pituitary-Adrenal Axis Activity in SARS-CoV-2 Infected Noncritically Ill Hospitalized Patients. 
+
+id: 38045388 
+title: CRISPR-Cas9 genome editing in Steinernema entomopathogenic nematodes. 
+bacteria : 2 
+homology : 1 
+
+id: 38045380 
+title: Reconstitution of a Biofilm Adhesin System from a Sulfate-Reducing Bacterium in Pseudomonas fluorescens. 
+bacteria : 1 
+effector : 1 
+
+id: 38045297 
+title: The intracellular growth of the vacuolar pathogen Legionella pneumophila is dependent on the acyl chain composition of host membranes. 
+bacteria : 6 
+hydrophobic : 1 
+eukaryotic : 1 
+effector : 1 
+
+id: 38045035 
+title: Ceragenins exhibit bactericidal properties that are independent of the ionic strength in the environment mimicking cystic fibrosis sputum. 
+bacteria : 2 
+peptide : 1 
+
+id: 38044640 
+title: Effect of Med1 on T cell development and CD4+ T cell differentiation in immune response. 
+
+id: 38044344 
+title: Regulation of the cell division hydrolase RipC by the FtsEX system in Mycobacterium tuberculosis. 
+bacteria : 3 
+
+id: 38044020 
+title: Metabolic network and proteomic expression perturbed by cyclosporine A to model microbe Escherichia coli. 
+
+id: 38043864 
+title: The erythromycin polyketide compound TMC-154 stimulates ROS generation to exert antibacterial effects against Streptococcus pyogenes. 
+bacteria : 8 
+peptide : 1 
+
+id: 38043726 
+title: Analysis of the molecular determinants for furin cleavage of the spike protein S1/S2 site in defined strains of the prototype coronavirus murine hepatitis virus (MHV). 
+peptide : 6 
+
+id: 38043443 
+title: Combating bacterial infections with host defense peptides: Shifting focus from bacteria to host immunity. 
+bacteria : 4 
+peptide : 2 
+
+id: 38043216 
+title: ListiWiki: A database for the foodborne pathogen Listeria monocytogenes. 
+bacteria : 1 
+eukaryotic : 1 
+homology : 1 
+
+id: 38043051 
+title: Human CD4+CD25+ T cells expressing a chimeric antigen receptor against aberrant superoxide dismutase 1 trigger antigen-specific immunomodulation. 
+effector : 1 
+
+id: 38042849 
+title: Diversification of division mechanisms in endospore-forming bacteria revealed by analyses of peptidoglycan synthesis in Clostridioides difficile. 
+bacteria : 1 
+
+id: 38042840 
+title: Interleukin-9 production by type 2 innate lymphoid cells induces Paneth cell metaplasia and small intestinal remodeling. 
+
+id: 38042814 
+title: Targeted mutagenesis of the herpesvirus fusogen central helix captures transition states. 
+
+id: 38042757 
+title: Isolation and Characterization of Antimicrobial Peptides Isolated from Brevibacillus halotolerans 7WMA2 for the Activity Against Multidrug-Resistant Pathogens. 
+bacteria : 2 
+peptide : 1 
+
+id: 38042515 
+title: URP20 improves corneal injury caused by alkali burns combined with pathogenic bacterial infection in rats. 
+bacteria : 5 
+peptide : 1 
+
+id: 38042311 
+title: Recombinant production of antimicrobial peptides in plants. 
+bacteria : 1 
+peptide : 2 
+
+id: 38041782 
+title: The MSMEG_1586 of M. smegmatis Is a Penicillin-Interactive Enzyme That Can Potentially Hydrolyse Aztreonam and Cephalosporins. 
+bacteria : 1 
+peptide : 1 
+
+id: 38041553 
+title: DNA on the move: mechanisms, functions and applications of transposable elements. 
+bacteria : 2 
+eukaryotes : 1 
+prokaryotes : 1 
+
+id: 38041113 
+title: Development of a neutralization monoclonal antibody with a broad neutralizing effect against SARS-CoV-2 variants. 
+
+id: 38041026 
+title: Humoral and T cell responses to SARS-CoV-2 reveal insights into immunity during the early pandemic period in Pakistan. 
+
+id: 38040658 
+title: Genes encoding a novel thermostable bacteriocin in the thermophilic bacterium Aeribacillus pallidus PI8. 
+bacteria : 2 
+peptide : 1 
+
+id: 38040624 
+title: SNAREs: a double-edged sword for intravacuolar bacterial pathogens within host cells. 
+bacteria : 3 
+effector : 2 
+
+id: 38040578 
+title: The evolutionary tug-of-war of macrophage metabolism during bacterial infection. 
+bacteria : 2 
+effector : 1 
+
+id: 38040419 
+title: Enhanced CD1d phosphatidylserine presentation using a single-domain antibody promotes immunomodulatory CD1d-TIM-3 interactions. 
+
+id: 38040301 
+title: Valorization of chicken feather waste using recombinant bacillus subtilis cells by solid-state fermentation for soluble proteins and serine alkaline protease production. 
+peptide : 1 
+
+id: 38040266 
+title: The crystal structure of insecticidal protein Txp40 from Xenorhabdus nematophila reveals a two-domain unique binary toxin with homology to the toxin-antitoxin (TA) system. 
+bacteria : 1 
+c-terminal : 1 
+eukaryotic : 1 
+prokaryotic : 1 
+homology : 2 
+peptide : 2 
+
+id: 38040134 
+title: A novel short-type peptidoglycan recognition protein with unique polysaccharide recognition specificity in sea cucumber, Apostichopus japonicus. 
+bacteria : 1 
+effector : 1 
+
+id: 38039966 
+title: Intestinal microbiota-specific Th17 cells possess regulatory properties and suppress effector T cells via c-MAF and IL-10. 
+effector : 2 
+
+id: 38039556 
+title: Recent insights into the world of dual-function bacterial sRNAs. 
+bacteria : 1 
+peptide : 1 
+
+id: 38039379 
+title: Noncanonical MAVS signaling restrains dendritic cell-driven antitumor immunity by inhibiting IL-12. 
+effector : 1 
+
+id: 38038928 
+title: N-Terminomics/TAILS of Human Tumor Biopsies and Cancer Cell Lines. 
+
+id: 38038870 
+title: Cloning and characterization of an acidic lipase from a lipolytic bacterium in tempeh. 
+bacteria : 1 
+peptide : 1 
+
+id: 38038837 
+title: Antimicrobial Peptides (Bacteriocins) Produced by Lactococcus lactis and Pediococcus pentosaceus Strains with Activity Against Clinical and Food-Borne Pathogens. 
+bacteria : 3 
+peptide : 1 
+
+id: 38038604 
+title: Expression of SARS-CoV-2 Nonstructural Proteins 3 and 4 Can Tune the Unfolded Protein Response in Cell Culture. 
+effector : 1 
+
+id: 38038392 
+title: Antimicrobial Protein LECT2-b Helps Maintain Gut Microbiota Homeostasis via Selectively Targeting Certain Pathogenic Bacteria. 
+bacteria : 7 
+peptide : 1 
+
+OBS: NOS ARQUIVOS QUE A CONTAGEM É NULA (0), OS TERMOS ESTÃO PRESENTES NAS PALAVRAS-CHAVE APENAS. VOCÊ PODE VERIFICAR ISSO ACESSANDO O ID DO ARTIGO OU O DOI PELO PUBMED.
+
+---------------------------------------------------------------------------------
+Ordem de Relevancia (tendo como criterio o numero de termos):
+ 
+id: 38064485 
+id: 38060007 
+id: 38056946 
+id: 38059521 
+id: 38057638 
+id: 38045297 
+id: 38043864 
+id: 38063488 
+id: 38040266 
+id: 38038392 
+id: 38056301 
+id: 38054968 
+id: 38052427 
+id: 38064380 
+id: 38043726 
+id: 38043443 
+id: 38042515 
+id: 38063852 
+id: 38062792 
+id: 38053353 
+id: 38040624 
+id: 38055114 
+id: 38049513 
+id: 38049374 
+id: 38047275 
+id: 38046653 
+id: 38041553 
+id: 38038837 
+id: 38053038 
+id: 38052872 
+id: 38052429 
+id: 38051770 
+id: 38049581 
+id: 38045388 
+id: 38045035 
+id: 38044344 
+id: 38043216 
+id: 38042757 
+id: 38042311 
+id: 38040658 
+id: 38040578 
+id: 38061560 
+id: 38061001 
+id: 38060257 
+id: 38057654 
+id: 38057137 
+id: 38056223 
+id: 38054739 
+id: 38053528 
+id: 38051771 
+id: 38050616 
+id: 38047677 
+id: 38047041 
+id: 38045380 
+id: 38041782 
+id: 38040134 
+id: 38039966 
+id: 38039556 
+id: 38038870 
+id: 38066347 
+id: 38061355 
+id: 38060615 
+id: 38059639 
+id: 38059517 
+id: 38057843 
+id: 38057297 
+id: 38056550 
+id: 38056114 
+id: 38055827 
+id: 38055438 
+id: 38055165 
+id: 38054022 
+id: 38053998 
+id: 38053530 
+id: 38052835 
+id: 38052825 
+id: 38049469 
+id: 38049261 
+id: 38048459 
+id: 38048343 
+id: 38046530 
+id: 38043051 
+id: 38042849 
+id: 38040301 
+id: 38039379 
+id: 38038604
