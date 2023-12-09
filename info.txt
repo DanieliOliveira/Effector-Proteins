@@ -453,7 +453,7 @@ title: Antimicrobial Protein LECT2-b Helps Maintain Gut Microbiota Homeostasis v
 bacteria : 7 
 peptide : 1 
 
-OBS: NOS ARQUIVOS QUE A CONTAGEM É NULA (0), OS TERMOS ESTÃO PRESENTES NAS PALAVRAS-CHAVE APENAS. VOCÊ PODE VERIFICAR ISSO ACESSANDO O ID DO ARTIGO OU O DOI PELO PUBMED.
+OBS: NOS ARQUIVOS QUE A CONTAGEM É NULA (0), OS TERMOS ESTÃO PRESENTES APENAS NAS PALAVRAS-CHAVE. É POSSIVEL VERIFICAR ISSO ACESSANDO O ID DO ARTIGO OU O DOI PELO PUBMED.
 
 ---------------------------------------------------------------------------------
 Ordem de Relevancia (tendo como criterio o numero de termos):
