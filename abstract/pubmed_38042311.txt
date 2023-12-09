@@ -1,0 +1,5 @@
+PubMed ID: 38042311 
+Title: Recombinant production of antimicrobial peptides in plants. 
+DOI: 10.1016/j.biotechadv.2023.108296 
+Abstract: Classical plant breeding methods are limited in their ability to confer disease resistance on plants. However, in recent years, advancements in molecular breeding and biotechnological have provided new approaches to overcome these limitations and protect plants from disease. Antimicrobial peptides (AMPs) constitute promising agents that may be able to protect against infectious agents. Recently, peptides have been recombinantly produced in plants at scale and low cost. Because AMPs are less likely than conventional antimicrobials to elicit resistance of pathogenic bacteria, they open up exciting new avenues for agricultural applications. Here, we review recent advances in the design and production of bioactive recombinant AMPs that can effectively protect crop plants from diseases. 
+

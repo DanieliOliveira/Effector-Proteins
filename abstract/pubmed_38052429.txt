@@ -1,0 +1,5 @@
+PubMed ID: 38052429 
+Title: Small proteins in gram-positive bacteria. 
+DOI: 10.1093/femsre/fuad064 
+Abstract: Small proteins comprising less than 100 amino acids have been often ignored in bacterial genome annotations. About 10 years ago, focused efforts started to investigate whole peptidomes, which resulted in the discovery of a multitude of small proteins, but only a number of them have been characterized in detail. Generally, small proteins can be either membrane or cytosolic proteins. The latter interact with larger proteins, RNA or even metal ions. Here, we summarize our current knowledge on small proteins from Gram-positive bacteria with a special emphasis on the model organism Bacillus subtilis. Our examples include membrane-bound toxins of type I toxin-antitoxin systems, proteins that block the assembly of higher order structures, regulate sporulation or modulate the RNA degradosome. We do not consider antimicrobial peptides. Furthermore, we present methods for the identification and investigation of such proteins. 
+

@@ -1,0 +1,5 @@
+PubMed ID: 38039556 
+Title: Recent insights into the world of dual-function bacterial sRNAs. 
+DOI: 10.1002/wrna.1824 
+Abstract: Dual-function sRNAs refer to a small subgroup of small regulatory RNAs that merges base-pairing properties of antisense RNAs with peptide-encoding properties of mRNA. Both functions can be part of either same or in another metabolic pathway. Here, we want to update the knowledge of to the already known dual-function sRNAs and review the six new sRNAs found since 2017 regarding their structure, functional mechanisms, evolutionary conservation, and role in the regulation of distinct biological/physiological processes. The increasing identification of dual-function sRNAs through bioinformatics approaches, RNomics and RNA-sequencing and the associated increase in regulatory understanding will likely continue to increase at the same rate in the future. This may improve our understanding of the physiology, virulence and resistance of bacteria, as well as enable their use in technical applications. This article is categorized under: Regulatory RNAs/RNAi/Riboswitches > Regulatory RNAs. 
+

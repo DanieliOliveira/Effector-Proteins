@@ -1,0 +1,5 @@
+PubMed ID: 38054739 
+Title: TrhA, a bacterial progestin and adiponectin receptor homolog, couples membrane energetics homeostasis and unsaturated fatty acid metabolism. 
+DOI: 10.1128/jb.00397-23 
+Abstract: Progestin and adipoQ receptor (PAQR) family proteins are evolutionary conserved regulators of membrane homeostasis and have been best characterized in eukaryotes. Bacterial PAQR homologs, named TrhA (transmembrane homeostasis protein A), regulate membrane energetics homeostasis through an unknown mechanism. Here, we present evidence linking TrhA to both membrane energetics homeostasis and unsaturated fatty acid biosynthesis. Analysis of domain architecture together with experimental evidence suggests a model where TrhA activity on unsaturated fatty acid biosynthesis is regulated by changes in membrane energetics to dynamically adjust membrane homeostasis. 
+

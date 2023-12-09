@@ -1,0 +1,5 @@
+PubMed ID: 38063852 
+Title: Mapping the substrate-binding subsite specificity of a Porphyromonas gingivalis Tpr peptidase. 
+DOI: 10.18388/abp.2020_6904 
+Abstract: Calcium-dependent peptidases of the calpain family are widespread in eukaryotes but uncommon in prokaryotes. A few bacterial calpain homologs have been discovered but none of them have been characterized in detail. Here we present an in-depth substrate specificity analysis of the bacterial calpain-like peptidase Tpr from Porphyromonas gingivalis. Using the positional scanning hybrid combinatorial substrate library method, we found that the specificity of Tpr peptidase differs substantially from the papain family of cysteine proteases, showing a strong preference for proline residues at positions P2 and P3. Such a degree of specificity indicates that this P. gingivalis cell-surface peptidase has a more sophisticated role than indiscriminate protein degradation to generate peptide nutrients, and may fulfil virulence-related functions such as immune evasion. 
+

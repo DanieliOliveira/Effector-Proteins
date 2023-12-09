@@ -1,0 +1,5 @@
+PubMed ID: 38040578 
+Title: The evolutionary tug-of-war of macrophage metabolism during bacterial infection. 
+DOI: 10.1016/j.tem.2023.11.002 
+Abstract: The function and phenotype of macrophages are intimately linked with pathogen detection. On sensing pathogen-derived signals and molecules, macrophages undergo a carefully orchestrated process of polarization to acquire pathogen-clearing properties. This phenotypic change must be adequately supported by metabolic reprogramming that is now known to support the acquisition of effector function, but also generates secondary metabolites with direct microbicidal activity. At the same time, bacteria themselves have adapted to both manipulate and take advantage of macrophage-specific metabolic adaptations. Here, we summarize the current knowledge on macrophage metabolism during infection, with a particular focus on understanding the 'arms race' between host immune cells and bacteria during immune responses. 
+

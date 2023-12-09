@@ -1,0 +1,5 @@
+PubMed ID: 38040658 
+Title: Genes encoding a novel thermostable bacteriocin in the thermophilic bacterium Aeribacillus pallidus PI8. 
+DOI: 10.1093/jambio/lxad293 
+Abstract: Aeribacillus pallidus PI8 is a gram-positive thermophilic bacterium that produces thermostable antimicrobial substances against several bacterial species, including Geobacillus kaustophilus HTA426. In the present study, we sought to identify genes of PI8 with antibacterial activity. We isolated, cloned, and characterized a thermostable bacteriocin from A. pallidus PI8 and named it pallidocyclin. Mass spectrometric analyses of pallidocyclin revealed that it had a circular peptide structure, and its precursor was encoded by pcynA in the PI8 genome. pcynA is the second gene within the pcynBACDEF operon. Expression of the full-length pcynBACDEF operon in Bacillus subtilis produced intact pallidocyclin, whereas expression of pcynF in G. kaustophilus HTA426 conferred resistance to pallidocyclin. A. pallidus PI8 possesses the pcynBACDEF operon to produce pallidocyclin. pcynA encodes the pallidocyclin precursor, and pcynF acts as an antagonist of pallidocyclin. 
+
