@@ -1,5 +1,5 @@
 # Effector-Proteins
-Base de Dados sobre artigos relacionados à Proteínas Efetoras
+Base de Conhecimento sobre artigos relacionados à Proteínas Efetoras
 
 Bem-vindo ao repositório dedicado à Mineração de Texto para Identificação de Proteínas Efetoras! Este projeto foi desenvolvido com o propósito de facilitar a busca por artigos sobre proteínas efetoras em bases de dados científicas.
 
