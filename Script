@@ -1,0 +1,106 @@
+#inclui as bibliotecas necessarias
+if (!requireNamespace("rentrez", quietly = TRUE)) {
+  install.packages("rentrez")
+}
+if (!requireNamespace("stringr", quietly = TRUE)) {
+  install.packages("stringr")
+}
+
+library(stringr)
+library(xml2)  
+library(rentrez)
+
+# Função para contar ocorrências de termos em um resumo
+contar_ocorrencias <- function(id, title, abstract) {
+  termos <- c("bacteria", "hydrophobicity", "hydrophobic", "hydrolyzed", "c-terminal", 
+              "basic polar amino acids", "eukaryotic", "eukaryotes", "ankyrin", 
+              "coiled-coil", "prokaryotic", "prokaryotes", "homology", 
+              "nuclear localization signal", "mitochondrial localization signal", 
+              "prenylation", "peptide", "effector")
+
+  # Inicializa um vetor de contagem para cada termo
+  contagens <- rep(0, length(termos))
+
+  # Loop sobre cada termo e verifica a ocorrência no resumo
+  for (i in seq_along(termos)) {
+    termo <- termos[i]
+    
+    # Conta ocorrências do termo e seus sinônimos
+    contagens[i] <- sum(str_count(abstract, regex(termo, ignore_case = TRUE)))
+  }
+
+  # Retorna os termos que têm uma ou mais ocorrências
+  termos_ocorrentes <- termos[contagens > 0]
+
+  # Imprime os resultados apenas para os termos que têm ocorrências
+  cat("\nid:", id, "\ntitle:", title, "\n")
+  for (termo in termos_ocorrentes) {
+    indice <- which(termos == termo)
+    cat(termo, ":", contagens[indice], "\n")
+  }
+
+  # Retorna as contagens para a soma
+  return(contagens)
+}
+
+# Define o diretório onde deseja salvar os arquivos
+diretorio_resultados <- "C:\\Users\\OneDrive\\Área de Trabalho\\abstract"
+
+#define os termos as serem procurados
+query <- "(bacteria) & (hydrophobicity|c-terminal|\"basic polar amino
+ acids\"|eukaryotic & domain|ankyrin & domain|coiled-coil & domain|prokaryotic & 
+domain|homology|\"nuclear localization signal\"|\"mitochondrial localization 
+signal\"|prenylation|peptide|effector)"
+
+search_results <- entrez_search(db = "pubmed", term = query, retmax = 100)
+ids <- search_results$ids
+
+# Vetor para armazenar as somas dos termos para cada artigo
+somas <- numeric(length(ids))
+
+# Loop sobre cada ID para calcular a soma dos termos
+for (i in seq_along(ids)) {
+  id <- ids[i]
+  article_info <- entrez_fetch(db = "pubmed", id = id, rettype = "xml")
+  xml_doc <- xml2::read_xml(article_info)
+  
+  title <- xml2::xml_text(xml2::xml_find_first(xml_doc, "//ArticleTitle"))
+  abstract <- xml2::xml_text(xml2::xml_find_all(xml_doc, "//AbstractText"))
+  doi <- xml2::xml_text(xml2::xml_find_first(xml_doc, "//ArticleId[@IdType='doi']"))  # Extract DOI
+
+  # Calcula a soma dos termos para o artigo atual
+  contagens <- contar_ocorrencias(id, title, abstract)
+  somas[i] <- sum(contagens)
+
+  # Cria o nome do arquivo com base no PubMed ID
+  nome_do_arquivo <- file.path(diretorio_resultados, paste0("pubmed_", id, ".txt"))
+  
+  # Abra o arquivo para escrita
+  sink(nome_do_arquivo)
+  
+  cat("PubMed ID:", id, "\n")
+  cat("Title:", title, "\n")
+  cat("DOI:", doi, "\n")  # Print DOI
+  cat("Abstract:", abstract, "\n\n")
+  
+  # Feche o arquivo
+  sink()
+}
+
+# Cria um data frame com os resultados
+resultados <- data.frame(id = ids, soma = somas)
+
+# Ordena os resultados pela soma em ordem decrescente
+resultados_ordenados <- resultados[order(resultados$soma, decreasing = TRUE), ]
+
+# Imprime a ordem de relevância apenas para os termos que têm ocorrências
+cat("\nORDEM DE RELEVANCIA DOS ARTIGOS:\n")
+for (i in seq_len(nrow(resultados_ordenados))) {
+  id <- resultados_ordenados$id[i]
+  soma <- resultados_ordenados$soma[i]
+
+  # Verifica se há ocorrências para algum termo
+  if (soma > 0) {
+    cat("id:", id, "\n")
+  }
+}
